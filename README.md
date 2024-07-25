@@ -1,6 +1,9 @@
-<h1 align="center">Hola 👋, soy Luis</h1>
+<h1 align="center">Hola 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="64" height="64" />, 
+  soy Luis</h1>
 
 ###
+
 
 <br clear="both">
 
@@ -11,14 +14,12 @@
 
 ###
 <br />
-<h2 align="left">👩‍💻  Sobre mí</h2>
+<h2 align="left">👨‍💻  Sobre mí</h2>
 
 ###
 
 <ul align="left">
   <li> 🎯 Enfocado en el desarrollo web, tanto <b>Front-End</b> como <b>Back-End</b>. Disfruto creando aplicaciones web dinámicas y responsivas que brinden una excelente experiencia de usuario. </li>
-  <br>
-  <li> 📚 Actualmente estoy aprendiendo <b>React</b> y expandiendo mis conocimientos en frameworks modernos de JavaScript. Próximamente, planeo adentrarme en el mundo de <b>PHP</b> para mejorar mis habilidades en el Back-End. </li>
   <br>
   <li> 🤝 Dispuesto a colaborar en proyectos de código abierto, comunidades de desarrollo web y en cualquier proyecto donde pueda contribuir y aprender de otros desarrolladores. </li>
   <br>
@@ -68,6 +69,7 @@
 ###
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/f7c62d27-73c0-4814-9e13-1db27bafcc8b" width ="120"  height="120"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisChicaizaDev.LuisChicaizaDev&"  />
 </div>
 
