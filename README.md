@@ -1,15 +1,19 @@
 <h1 align="center">Hola 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="64" height="64" />, 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="60" height="60" />, 
   soy Luis</h1>
 
 ###
 
 
 <br clear="both">
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisChicaizaDev&locale=es&mode=daily&theme=slateorange&hide_border=false&border_radius=8&order=3" height="180" alt="streak graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisChicaizaDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=slateorange&hide_border=false&order=2" height="160" alt="languages graph"  /> 
+  <h3 align="center">Desarrollador Web</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width ="50" height="50"/>
+</div>
+<br clear="both">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuisChicaizaDev&locale=es&mode=daily&theme=slateorange&hide_border=false&border_radius=8&order=3" height="160" alt="streak graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisChicaizaDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=slateorange&hide_border=false&order=2" height="160" alt="languages graph"  />  -->
 </div>
 
 ###
@@ -69,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f7c62d27-73c0-4814-9e13-1db27bafcc8b" width ="120"  height="120"/>
+  <img src="https://github.com/user-attachments/assets/f7c62d27-73c0-4814-9e13-1db27bafcc8b" width ="130"  height="130"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisChicaizaDev.LuisChicaizaDev&"  />
 </div>
 
