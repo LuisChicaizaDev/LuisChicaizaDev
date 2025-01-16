@@ -4,12 +4,8 @@
 
 ###
 
+![Frontend Developer](https://github.com/user-attachments/assets/598b4648-415a-4ea9-9573-19d1bd5d75ba)
 
-<br clear="both">
-<div align="center">
-  <h3 align="center">Desarrollador Web</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width ="50" height="50"/>
-</div>
 <br clear="both">
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LuisChicaizaDev&locale=es&mode=daily&theme=slateorange&hide_border=false&border_radius=8&order=3" height="160" alt="streak graph"  />
