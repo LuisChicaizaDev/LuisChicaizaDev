@@ -6,12 +6,6 @@
 
 ![Frontend Developer](https://github.com/user-attachments/assets/598b4648-415a-4ea9-9573-19d1bd5d75ba)
 
-<br clear="both">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisChicaizaDev&locale=es&mode=daily&theme=slateorange&hide_border=false&border_radius=8&order=3" height="160" alt="streak graph"  />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisChicaizaDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=slateorange&hide_border=false&order=2" height="160" alt="languages graph"  />  -->
-</div>
-
 ###
 <br />
 <h2 align="left">👨‍💻  Sobre mí</h2>
@@ -19,7 +13,7 @@
 ###
 
 <ul align="left">
-  <li> 🎯 Enfocado en el desarrollo web, tanto <b>Front-End</b> como <b>Back-End</b>. Disfruto creando aplicaciones web dinámicas y responsivas que brinden una excelente experiencia de usuario. </li>
+  <li> 🎯 <b>Desarrollador Front-End</b> con conocimientos en Back-End (PHP/MySQL). Disfruto creando aplicaciones web dinámicas y responsivas que brinden una excelente experiencia de usuario. </li>
   <br>
   <li> 🤝 Dispuesto a colaborar en proyectos de código abierto, comunidades de desarrollo web y en cualquier proyecto donde pueda contribuir y aprender de otros desarrolladores. </li>
   <br>
@@ -33,23 +27,16 @@
 
 <div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###
@@ -59,12 +46,18 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/chicaiza-luis" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:luis97chicaiza@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chicaiza-luis) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis97chicaiza@gmail.com)
+</div>
+
+###
+
+<br /> <br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuisChicaizaDev&locale=es&mode=daily&theme=slateorange&hide_border=false&border_radius=8&order=3" height="160" alt="streak graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisChicaizaDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=slateorange&hide_border=false&order=2" height="160" alt="languages graph"  />  -->
 </div>
 
 ###
